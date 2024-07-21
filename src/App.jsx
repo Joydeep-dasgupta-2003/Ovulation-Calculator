@@ -13,7 +13,7 @@ function App() {
   }, [cycle]);
 
   return (
-    <>
+    <div className="bg">
       <div className="text-center">
         <nav className="navbar navbar-expand-lg">
           <div className="container-fluid">
@@ -96,7 +96,7 @@ function App() {
           </div>
         </div>
       </div>
-    </>
+    </div>
   );
 }
 

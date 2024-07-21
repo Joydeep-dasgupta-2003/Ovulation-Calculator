@@ -5,16 +5,20 @@
 
 html {
   scroll-behavior: smooth;
+
+  
 }
 element.style{
   border-radius: 20px;
 }
-
+.bg{
+  background: linear-gradient(to top, #E96196 20% , #FFFFFF);
+}
 body {
   height: 100vh;
   width: 100%;
   /* background: linear-gradient(to right,#92EFFD,  #4E65FF); */
-  background: linear-gradient(to right, rgb(235, 173, 254) 11.2%, rgb(254, 150, 150) 90.4%);
+  
 }
 
 .navbar-brand img {
@@ -62,6 +66,7 @@ label {
 .container {
   height: 30vh;
   margin-top: 20px;
+  
   
 }
 
@@ -180,6 +185,7 @@ select:focus {
 }
 
 .bottom-info {
+  color: white;
   font-size: 14px;
   margin-top: 20px;
   text-align: center;
