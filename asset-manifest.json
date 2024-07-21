@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Ovulation-Calculator/static/css/main.6d576f4e.css",
-    "main.js": "/Ovulation-Calculator/static/js/main.7602f41b.js",
+    "main.css": "/Ovulation-Calculator/static/css/main.a1354fbc.css",
+    "main.js": "/Ovulation-Calculator/static/js/main.44a80f83.js",
     "static/js/453.2fd69f5a.chunk.js": "/Ovulation-Calculator/static/js/453.2fd69f5a.chunk.js",
     "index.html": "/Ovulation-Calculator/index.html",
-    "main.6d576f4e.css.map": "/Ovulation-Calculator/static/css/main.6d576f4e.css.map",
-    "main.7602f41b.js.map": "/Ovulation-Calculator/static/js/main.7602f41b.js.map",
+    "main.a1354fbc.css.map": "/Ovulation-Calculator/static/css/main.a1354fbc.css.map",
+    "main.44a80f83.js.map": "/Ovulation-Calculator/static/js/main.44a80f83.js.map",
     "453.2fd69f5a.chunk.js.map": "/Ovulation-Calculator/static/js/453.2fd69f5a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6d576f4e.css",
-    "static/js/main.7602f41b.js"
+    "static/css/main.a1354fbc.css",
+    "static/js/main.44a80f83.js"
   ]
 }
