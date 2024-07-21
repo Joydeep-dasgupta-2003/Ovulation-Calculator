@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Joydeep-dasgupta-2003/Ovulation-Calculator/static/css/main.e76ecbda.css",
-    "main.js": "/Joydeep-dasgupta-2003/Ovulation-Calculator/static/js/main.ff90534b.js",
+    "main.js": "/Joydeep-dasgupta-2003/Ovulation-Calculator/static/js/main.771bb287.js",
     "static/js/453.2fd69f5a.chunk.js": "/Joydeep-dasgupta-2003/Ovulation-Calculator/static/js/453.2fd69f5a.chunk.js",
     "index.html": "/Joydeep-dasgupta-2003/Ovulation-Calculator/index.html",
     "main.e76ecbda.css.map": "/Joydeep-dasgupta-2003/Ovulation-Calculator/static/css/main.e76ecbda.css.map",
-    "main.ff90534b.js.map": "/Joydeep-dasgupta-2003/Ovulation-Calculator/static/js/main.ff90534b.js.map",
+    "main.771bb287.js.map": "/Joydeep-dasgupta-2003/Ovulation-Calculator/static/js/main.771bb287.js.map",
     "453.2fd69f5a.chunk.js.map": "/Joydeep-dasgupta-2003/Ovulation-Calculator/static/js/453.2fd69f5a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e76ecbda.css",
-    "static/js/main.ff90534b.js"
+    "static/js/main.771bb287.js"
   ]
 }
